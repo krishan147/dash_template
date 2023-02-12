@@ -1,0 +1,1 @@
+easy to read dash template with 2 column layout
